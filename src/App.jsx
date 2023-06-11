@@ -1,11 +1,11 @@
 import Welcome from "./components/Welcome"
-import Welcome2 from "./components/Welcome2";
+import MessageSender from "./components/MessageSender";
 
 export default function App() {
     return (
         <>
             <Welcome/>
-            <Welcome2/>
+            <MessageSender/>
         </>
     )
 }
